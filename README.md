@@ -1,5 +1,26 @@
-# 💫 About Me:
-🎓 I'm currently studying Computer Science and Engineering at American International University-Bangladesh (AIUB).<br><br>🚀 Currently Learning<br>Web & App Development<br>Data Structures and Algorithms<br>Git & GitHub Collaboration<br>Problem Solving with C++ <br><br>❓ Ask Me About<br>Anything — I'm always up for a good chat!<br><br>🎉 Fun Fact<br>I believe in smart work over hard work — I might study less, but I strive to perform more through focused learning and practical problem-solving.<br><br>📫 Reach Me At<br>📧 Email: johnaricsson1@gmail.com<br><br><br><br>
+<h1 align="center">Hi 👋, I'm John Aricsson Majumder</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=johnaricsson&label=Profile%20views&color=0e75b6&style=flat" alt="JohnAricsson" />
+</p>
+
+## 💫 About Me  
+🎓 I'm currently studying Computer Science and Engineering at American International University-Bangladesh (AIUB).
+
+### 🚀 Currently Learning  
+- Web & App Development  
+- Data Structures and Algorithms  
+- Git & GitHub Collaboration  
+- Problem Solving with C++
+
+### ❓ Ask Me About  
+Anything — I'm always up for a good chat!
+
+### 🎉 Fun Fact  
+I believe in smart work over hard work — I might study less, but I strive to perform more through focused learning and practical problem-solving.
+
+### 📫 Reach Me At  
+📧 Email: johnaricsson1@gmail.com
 
 
 ## 🌐 Socials:
